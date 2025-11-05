@@ -4,14 +4,15 @@ using namespace std;
 int totalHadir = 0;
 
 int main() {
-	int m;
-	int p;
+	int mahasiswa;
+	int pertemuan;
 	
 	cout << "Masukkan jumlah mahasiswa: " << m;
-	cin >> m;
+	cin >> mahasiswa;
 	cout << "Masukkan total pertemuan: " << p;
-	cin >> p;
+	cin >> pertemuan;
 	
 	return 0;
 	
 }
+
